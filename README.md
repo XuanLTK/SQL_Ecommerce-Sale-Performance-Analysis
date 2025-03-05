@@ -10,8 +10,9 @@ Tools Used: SQL/Google BigQuery
 
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
-2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
-3. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
+3. [⚒️ Main Process](#--main-process)
+4. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 ---
 
