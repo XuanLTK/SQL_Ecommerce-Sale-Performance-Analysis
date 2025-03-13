@@ -67,18 +67,14 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 
 ### Query 01: Calculate total visit, pageview, transaction and revenue for January, February and March 2017 order by month
 * SQL code
-
-![image](https://github.com/user-attachments/assets/254d7d08-8a22-4e1f-914d-7069f2e7ab69)
-<img width="507" alt="Image" src="https://github.com/user-attachments/assets/254d7d08-8a22-4e1f-914d-7069f2e7ab69" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/8e6e94cb-a8f3-4c70-9097-0d7e889884ac" />
 
 * Query results
-![image](https://github.com/user-attachments/assets/52994a7e-ff41-4e7c-88b7-bd3955561eaa)
 
-![image](https://github.com/user-attachments/assets/7a5bf7bc-4fda-49b3-8629-3ff506a61178)
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/52994a7e-ff41-4e7c-88b7-bd3955561eaa" />
 
-<img width="638" alt="Image" src="https://github.com/user-attachments/assets/52994a7e-ff41-4e7c-88b7-bd3955561eaa" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/7a5bf7bc-4fda-49b3-8629-3ff506a61178" />
 
-<img width="501" alt="Image" src="https://github.com/user-attachments/assets/7a5bf7bc-4fda-49b3-8629-3ff506a61178" />
 ### Query 02: Bounce rate per traffic source in July 2017
 * SQL code
 
