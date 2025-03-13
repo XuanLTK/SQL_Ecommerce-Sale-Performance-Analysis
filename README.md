@@ -1,4 +1,4 @@
-# 📊 [SQL] E-Commerce Sale Analysis
+# 📊 [SQL] E-Commerce Sale Performance Analysis
 
 Author: Xuan Luong
 
@@ -20,8 +20,6 @@ Tools Used: SQL/Google BigQuery
 
 ### Objective:
 Query eCommerce dataset to answer business inquiries.
-
-### Actions: 
 Used Google BigQuery platform to conduct queries on Google Analytics public dataset.
 
 ### Outcome: 
