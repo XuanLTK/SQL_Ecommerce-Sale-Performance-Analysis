@@ -96,11 +96,11 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 ### Query 04: Average number of product pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017
 * SQL code
 
-![image]()
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/8f2f2a0a-6a6a-40f1-8a8d-6b00fe95deff" />
 
 * Query results
 
-![image]()
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/a8524f45-1580-4cbd-a6aa-ce6f301dc7e0" />
 
 ### Query 05: Average number of transactions per user that made a purchase in July 2017
 * SQL code
