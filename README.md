@@ -50,16 +50,9 @@ To access the insights, the questions above have been broken down into more spec
 ### 📌 Data Source
 The dataset is based on the Google Analytics public dataset and contains data from an eCommerce website.
 Project on Google Cloud Platform, the project ID is "bigquery-public-data.google_analytics_sample.ga_sessions"
+
 [Table Schema](https://support.google.com/analytics/answer/3437719?hl=en)
 
-
-## Dataset Access
-The eCommerce dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
-* Log in to your Google Cloud Platform account and create a new project.
-* Navigate to the BigQuery console and select your newly created project.
-* In the navigation panel, select "Add Data" and then "Search a project".
-* Enter the project ID **"bigquery-public-data.google_analytics_sample.ga_sessions"** and click "Enter".
-* Click on the **"ga_sessions_"** table to open it.
 
 ---
 ## ⚒ Main Process
