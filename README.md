@@ -11,7 +11,7 @@ Tools Used: SQL/Google BigQuery
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)
-3. [⚒️ Main Process](#-main-process)
+3. [⚒ Main Process](#-main-process)  
 4. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 ---
@@ -62,7 +62,7 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
 * Click on the **"ga_sessions_"** table to open it.
 
 ---
-## ⚒️ Main Process
+## ⚒ Main Process
 
 In this project, I will write 08 query in Bigquery base on Google Analytics dataset
 
