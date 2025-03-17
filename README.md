@@ -57,7 +57,7 @@ Project on Google Cloud Platform, the project ID is "bigquery-public-data.google
 ---
 ## ⚒ Main Process
 
-In this project, I will write 08 query in Bigquery base on Google Analytics dataset
+As mentioned above, I will write 08 queries in Bigquery to answer those questions
 
 ### Query 01: Calculate total visit, pageview, transaction and revenue for January, February and March 2017 order by month
 * SQL code
@@ -151,7 +151,7 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 > Useful information that users should know, even when skimming content.
 
 
-### Query 07: Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.
+### Query 07: Other products purchased by customers who purchased the product "YouTube Men's Vintage Henley" in July 2017. The output should show the product name and the quantity ordered
 * SQL code
 
 <img width="700" alt="Image" src="https://github.com/user-attachments/assets/932ac116-9d6b-4827-8984-635db2ecd81d" />
@@ -166,7 +166,7 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 > Useful information that users should know, even when skimming content.
 
 
-### Query 08: Calculate cohort map from pageview to addtocart to purchase in last 3 month.
+### Query 08: Calculate cohort map from product view to "addtocart" to "purchase" in Jan, Feb, and March 2017. The output should be calculated in product level.
 * SQL code
 
 <img width="700" alt="Image" src="https://github.com/user-attachments/assets/43362203-646f-45a3-9b3f-c7da8b4bffb7" />
@@ -179,7 +179,7 @@ In this project, I will write 08 query in Bigquery base on Google Analytics data
 
 > ✔️ **Insight**:
 > 
-> Useful information that users should know, even when skimming content.
+> 
 
 ---
 ## 🔎 Final Conclusion & Recommendations  
